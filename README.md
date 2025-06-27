@@ -1,16 +1,28 @@
-## Hi there 👋
+👋 Olá! Eu sou Breno Oliveira.
 
 <!--
-**Brenop9/Brenop9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo(a) ao meu perfil do GitHub! Fico feliz em te ver por aqui.
 
-Here are some ideas to get you started:
+🌟 Sobre Mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🔭 Atualmente estou trabalhando em um aplicativo de gestão de finanças para empreendedores em Python.
+
+🌱 Atualmente estou aprendendo:
+
+💡 Meus interesses: 
+
+🤝 Colaboração
+Estou a procura de projetos, pra desenvolver melhor minhas capacidades.
+
+👯 Estou buscando colaborar em: 
+
+🤔 Estou buscando ajuda com: Python e SQL melhorar minhas habilidades em algoritmos e estruturas de dados.
+
+📫 Como me encontrar: 
+E-mail: brenoo.oliveira2@gmail.com
+Linkedin: https://www.linkedin.com/in/breno-oliveira-135944226
+
+⚡ Curiosidade: Adoro surfar nas horas vagas e beber um bom café.
+
+Este README.md aparece no meu perfil do GitHub, e é uma ótima maneira de me apresentar à comunidade!
 -->
