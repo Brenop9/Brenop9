@@ -1,6 +1,6 @@
 👋 Olá! Eu sou Breno Oliveira.
 
-<!--
+
 Bem-vindo(a) ao meu perfil do GitHub! Fico feliz em te ver por aqui.
 
 🌟 Sobre Mim
@@ -25,4 +25,4 @@ Linkedin: https://www.linkedin.com/in/breno-oliveira-135944226
 ⚡ Curiosidade: Adoro surfar nas horas vagas e beber um bom café.
 
 Este README.md aparece no meu perfil do GitHub, e é uma ótima maneira de me apresentar à comunidade!
--->
+
