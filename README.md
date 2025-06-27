@@ -20,6 +20,7 @@ Estou a procura de projetos, pra desenvolver melhor minhas capacidades.
 
 📫 Como me encontrar: 
 E-mail: brenoo.oliveira2@gmail.com
+
 Linkedin: https://www.linkedin.com/in/breno-oliveira-135944226
 
 ⚡ Curiosidade: Adoro surfar nas horas vagas e beber um bom café.
