@@ -3,7 +3,7 @@
 
 Bem-vindo(a) ao meu perfil do GitHub! Fico feliz em te ver por aqui.
 
-🌟 Sobre Mim
+🌟 Sobre Mim:
 
 🔭 Atualmente estou trabalhando em um aplicativo de gestão de finanças para empreendedores em Python.
 
@@ -11,7 +11,7 @@ Bem-vindo(a) ao meu perfil do GitHub! Fico feliz em te ver por aqui.
 
 💡 Meus interesses: 
 
-🤝 Colaboração
+🤝 Colaboração:
 Estou a procura de projetos, pra desenvolver melhor minhas capacidades.
 
 👯 Estou buscando colaborar em: 
